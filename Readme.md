@@ -2,6 +2,8 @@
 
 This project contains almost all the the tests asked for Architect role at Meisters Solutions (5/6 tasks).
 
+Project (Backend/Frontend) for task 4 is stored [here](https://github.com/ricardoponcio/meinsters-architect-todolist)
+
 ![Coverage Status](src/main/resources/Project-files-structure.png)
 
 ## Java Tests
